@@ -1,6 +1,11 @@
 # TIL
 
 
+## 2020 09 29
+- 인공지능(AI) 서비스 동향 및 사례 
+
+
+
 ## 2020 09 28
 - Cancer CNN pull request & commit
 
